@@ -1,0 +1,319 @@
+/* ConstituencyStyle for ORIGINAL theme                                                                */
+
+/* The constituency look and feel is determined using the following rules:                             */
+/* 1) Background color should match lightest gradient in background image (sub-BGxxx)                  */
+/* 2) Three color hues (border, background, text color) are needed for submenu boxes and screen tables */
+/* 3) For the submenus, background color is the lightest.  Color is the darkest                        */
+/* 4) Menu title box uses reverse of submenu fore/background colors                                    */
+/* 5) Tables alternate between border and background (the 2 lightest colors)                           */
+
+
+/* Continuing Education constituency (WBCE) */
+.XWBCE                     {background-color:#F4D16B; background-image:url(./images/sub-BGContinuing.jpg);}
+.XWBCE #bodyConstituency   {color:white;}
+.XWBCE #bodyForm           {border-color:#EDC44C;}
+.XWBCE .menu .submenu,
+.XWBCE .submit INPUT, .WBCE .pagingbutton       {border-color:#EDC44C; color:black; background-color:#F4D16B;}
+.XWBCE .submit INPUT:hover,
+.XWBCE .submit INPUT.buttonPress,
+.XWBCE #menuTitle          {border-color:#EDC44C; background-color:#CE9C07; color:#F4D16B;}
+.XWBCE .menu a:hover,
+.XWBCE .menu .submenu a:hover {color:blue;}
+
+.XWBCE table tr td.oddrow         {background-color: #F4D16B; border:1px solid black;}
+.XWBCE table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBCE table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBCE table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBCE table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBCE table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBCE table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBCE .envisionList .oddrow,
+.XWBCE .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBCE_Bars        {border:3px solid #CE9C07; background-color:#CE9C07; }
+#mainMenu a.XWBCE_Bars:hover  {border:3px solid #F4D16B}
+#mainMenu li.XWBCE_Boxes      {background-image:url(./images/main-pathContinue.jpg); }
+#mainMenu li.XWBCE_DISABLED   {background-image:url(./images/main-pathContinueGRAY.jpg);}
+#mainMenu li.XWBCE_Boxes a:hover {font-size:12px;}
+
+.XWBCE hr                  {height:2px; background-color: #CE9C07; color: #CE9C07}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Prospective Students constituency (WBAP) */
+.XWBAP                     {background-color:#ECBD8F; background-image:url(./images/sub-BGProspects.jpg);}
+.XWBAP #bodyConstituency   {color:white;}
+.XWBAP #bodyForm           {border-color:#DFA060;}
+.XWBAP .menu .submenu,
+.XWBAP .submit INPUT, .WBAP .pagingbutton       {border-color:#DFA060; color:black; background-color:#ECBD8F;}
+.XWBAP .submit INPUT:hover,
+.XWBAP .submit INPUT.buttonPress,
+.XWBAP #menuTitle          {border-color:#DFA060; background-color:#C87522; color:#ECBD8F;}
+.XWBAP .menu a:hover,
+.XWBAP .menu .submenu a:hover {color:blue;}
+
+.XWBAP table tr td.oddrow         {background-color: #ECBD8F; border:1px solid black;}
+.XWBAP table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBAP table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBAP table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBAP table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBAP table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBAP table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBAP .envisionList .oddrow,
+.XWBAP .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBAP_Bars        {border:3px solid #C87522; background-color:#C87522;}
+#mainMenu a.XWBAP_Bars:hover  {border:3px solid #ECBD8F}
+#mainMenu li.XWBAP_Boxes      {background-image:url(./images/main-pathProspect.jpg); }
+#mainMenu li.XWBAP_DISABLED   {background-image:url(./images/main-pathProspectGRAY.jpg);}
+#mainMenu li.XWBAP_Boxes a:hover {font-size:12px;}
+
+.XWBAP hr                  {height:2px; background-color: #C87522; color: #C87522}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Current Students constituency (WBST) */
+.XWBST                     {background-color:#5F8BB1; background-image:url(./images/sub-BGCurrentStudents.jpg);}
+.XWBST #bodyConstituency   {color:white;}
+.XWBST #bodyForm           {border-color:#94B2CD;}
+.XWBST .menu .submenu,
+.XWBST .submit INPUT, .WBST .pagingbutton {border-color:#94B2CD; color:black; background-color:#C3D8EA;}
+.XWBST .submit INPUT:hover,
+.XWBST .submit INPUT.buttonPress,
+.XWBST #menuTitle          {border-color:#94B2CD; background-color:#1D4670; color:#67B2FF;}
+.XWBST .menu a:hover,
+.XWBST .menu .submenu a:hover {color:blue;}
+
+.XWBST table tr td.oddrow         {background-color: #94B2CD; border:1px solid black;}
+.XWBST table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBST table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBST table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBST table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBST table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBST table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBST .envisionList .oddrow,
+.XWBST .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBST_Bars        {border:3px solid #1D4670; background-color:#1D4670;}
+#mainMenu a.XWBST_Bars:hover  {border:3px solid #67B2FF}
+#mainMenu li.XWBST_Boxes      {background-image:url(./images/main-pathCurrent.jpg); }
+#mainMenu li.XWBST_DISABLED   {background-image:url(./images/main-pathCurrentGRAY.jpg);}
+#mainMenu li.XWBST_Boxes a:hover {font-size:12px;}
+
+.XWBST hr                  {height:2px; background-color: #5F8BB1; color: #5F8BB1}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Faculty constituency (WBFC) */
+.XWBFC                     {background-color:#CBCBA8; background-image:url(./images/sub-BGFaculty.jpg);}
+.XWBFC #bodyConstituency   {color:white;}
+.XWBFC #bodyForm           {border-color:#A2A275;}
+.XWBFC .menu .submenu,
+.XWBFC .submit INPUT, .WBFC .pagingbutton       {border-color:#A2A275; color:black; background-color:#CBCBA8;}
+.XWBFC .submit INPUT:hover,
+.XWBFC .submit INPUT.buttonPress,
+.XWBFC #menuTitle          {border-color:#A2A275; background-color:#85865F; color:#CBCBA8;}
+.XWBFC .menu a:hover,
+.XWBFC .menu .submenu a:hover {color:blue;}
+
+.XWBFC table tr td.oddrow         {background-color: #CBCBA8; border:1px solid black;}
+.XWBFC table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBFC table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBFC table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBFC table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBFC table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBFC table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBFC .envisionList .oddrow,
+.XWBFC .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBFC_Bars        {border:3px solid #85865F; background-color:#85865F;}
+#mainMenu a.XWBFC_Bars:hover  {border:3px solid #CBCBA8}
+#mainMenu li.XWBFC_Boxes      {background-image:url(./images/main-pathFaculty.jpg); }
+#mainMenu li.XWBFC_DISABLED   {background-image:url(./images/main-pathFacultyGRAY.jpg);}
+#mainMenu li.XWBFC_Boxes a:hover {font-size:12px;}
+
+.XWBFC hr                  {height:2px; background-color: #85865F; color: #85865F}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Employees constituency (WBEM) */
+.XWBEM                     {background-color:#AE7390; background-image: url(./images/sub-BGEmployees.jpg);}
+.XWBEM #bodyConstituency   {color:white;}
+.XWBEM #bodyForm           {border-color:#C99EB4;}
+.XWBEM .menu .submenu,
+.XWBEM .submit INPUT, .WBEM .pagingbutton       {border-color:#C99EB4; color:black; background-color:#AE7390;}
+.XWBEM .submit INPUT:hover,
+.XWBEM .submit INPUT.buttonPress,
+.XWBEM #menuTitle          {border-color:#C99EB4; background-color:#701D46; color:#AE7390;}
+.XWBEM .menu a:hover,
+.XWBEM .menu .submenu a:hover {color:blue;}
+
+.XWBEM table tr td.oddrow         {background-color: #C99EB4; border:1px solid black;}
+.XWBEM table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBEM table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBEM table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBEM table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBEM table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBEM table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBEM .envisionList .oddrow,
+.XWBEM .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBEM_Bars        {border:3px solid #701D46; background-color:#701D46;}
+#mainMenu a.XWBEM_Bars:hover  {border:3px solid #AE7390}
+HTML>BODY #mainMenu li.XWBEM_Boxes  {margin-left:98px;}
+#mainMenu li.XWBEM_Boxes      {background-image:url(./images/main-pathEmployee.jpg); margin-left:49px;}
+/* Non-IE browsers */
+#mainMenu li.XWBEM_DISABLED   {background-image:url(./images/main-pathEmployeeGRAY.jpg); margin-left:98px;}
+/* IE specific */
+* html #mainMenu li.XWBEM_DISABLED   {background-image:url(./images/main-pathEmployeeGRAY.jpg); margin-left:49px;}
+#mainMenu li.XWBEM_Boxes a:hover {font-size:12px;}
+
+.XWBEM hr                  {height:2px; background-color: #701D46; color: #701D46}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Vendors constituency (WBVN) */
+.XWBVN                     {background-color:#D9D98A; background-image: url(./images/sub-BGVendors.jpg);}
+.XWBVN #bodyConstituency   {color:white;}
+.XWBVN #bodyForm           {border-color:#C5C47B;}
+.XWBVN .menu .submenu,
+.XWBVN .submit INPUT, .WBVN .pagingbutton       {border-color:#C5C47B; color:black; background-color:#D9D98A;}
+.XWBVN .submit INPUT:hover,
+.XWBVN .submit INPUT.buttonPress,
+.XWBVN #menuTitle          {border-color:#C5C47B; background-color:#C3C134; color:#D9D98A;}
+.XWBVN .menu a:hover,
+.XWBVN .menu .submenu a:hover {color:blue;}
+
+.XWBVN table tr td.oddrow         {background-color: #D9D98A; border:1px solid black;}
+.XWBVN table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBVN table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBVN table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBVN table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBVN table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBVN table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBVN .envisionList .oddrow,
+.XWBVN .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBVN_Bars        {border:3px solid #C3C134; background-color:#C3C134;}
+#mainMenu a.XWBVN_Bars:hover  {border:3px solid #D9D98A}
+#mainMenu li.XWBVN_Boxes      {background-image:url(./images/main-pathVendor.jpg); }
+#mainMenu li.XWBVN_DISABLED   {background-image:url(./images/main-pathVendorGRAY.jpg);}
+#mainMenu li.XWBVN_Boxes a:hover {font-size:12px;}
+
+.XWBVN hr                  {height:2px; background-color: #C3C134; color: #C3C134}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Advancement Officers constituency (WBAO) */
+.XWBAO                     {background-color:#BDDD7F; background-image:url(./images/sub-BGAdvancement.jpg);}
+.XWBAO #bodyConstituency   {color:white;}
+.XWBAO #bodyForm           {border-color:#94A66F;}
+.XWBAO .menu .submenu,
+.XWBAO .submit INPUT, .WBAO .pagingbutton       {border-color:#94A66F; color:black; background-color:#BDDD7F;}
+.XWBAO .submit INPUT:hover,
+.XWBAO .submit INPUT.buttonPress,
+.XWBAO #menuTitle          {border-color:#94A66F; background-color:#8DBB2E; color:#BDDD7F;}
+.XWBAO .menu a:hover,
+.XWBAO .menu .submenu a:hover {color:blue;}
+
+.XWBAO table tr td.oddrow         {background-color: #BDDD7F; border:1px solid black;}
+.XWBAO table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBAO table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBAO table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBAO table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBAO table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBAO table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBAO .envisionList .oddrow,
+.XWBAO .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBAO_Bars        {border:3px solid #8DBB2E; background-color:#8DBB2E;}
+#mainMenu a.XWBAO_Bars:hover  {border:3px solid #BDDD7F}
+#mainMenu li.XWBAO_Boxes      {background-image:url(./images/main-pathAdvance.jpg); }
+#mainMenu li.XWBAO_DISABLED   {background-image:url(./images/main-pathAdvanceGRAY.jpg);}
+#mainMenu li.XWBAO_Boxes a:hover {font-size:12px;}
+
+.XWBAO hr                  {height:2px; background-color: #8DBB2E; color: #8DBB2E}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Alumni and Friends constituency (WBAF) */
+.XWBAF                     {background-color:#EB9F81; background-image:url(./images/sub-BGAlumni.jpg);}
+.XWBAF #bodyConstituency   {color:white;}
+.XWBAF #bodyForm           {border-color:#DB8666;}
+.XWBAF .menu .submenu,
+.XWBAF .submit INPUT, .WBAF .pagingbutton       {border-color:#DB8666; color:black; background-color:#EB9F81;}
+.XWBAF .submit INPUT:hover,
+.XWBAF .submit INPUT.buttonPress,
+.XWBAF #menuTitle          {border-color:#DB8666; background-color:#BB5932; color:#EB9F81;}
+.XWBAF .menu a:hover,
+.XWBAF .menu .submenu a:hover {color:blue;}
+
+.XWBAF table tr td.oddrow         {background-color: #EB9F81; border:1px solid black;}
+.XWBAF table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBAF table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBAF table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBAF table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBAF table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBAF table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBAF .envisionList .oddrow,
+.XWBAF .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBAF_Bars        {border:3px solid #BB5932; background-color:#BB5932;}
+#mainMenu a.XWBAF_Bars:hover  {border:3px solid #EB9F81}
+HTML>BODY #mainMenu li.XWBAF_Boxes  {margin-left:196px;}
+#mainMenu li.XWBAF_Boxes      {background-image:url(./images/main-pathAlumni.jpg); margin-left:98px; }
+/* Non-IE browsers */
+#mainMenu li.XWBAF_DISABLED   {background-image:url(./images/main-pathAlumniGRAY.jpg); margin-left:196px; }
+/* IE specific */
+* html #mainMenu li.XWBAF_DISABLED   {background-image:url(./images/main-pathAlumniGRAY.jpg); margin-left:98px; }
+#mainMenu li.XWBAF_Boxes a:hover {font-size:12px;}
+
+.XWBAF hr                  {height:2px; background-color: #BB5932; color: #BB5932}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Advisors constituency (WBAD) */
+.XWBPR                     {background-color:#A6B4BD; background-image:url(./images/sub-BGAdvisors.jpg);}
+.XWBPR #bodyConstituency   {color:white;}
+.XWBPR #bodyForm           {border-color:#A6B4BD;}
+.XWBPR .menu .submenu,
+.XWBPR .submit INPUT, .WBAD .pagingbutton       {border-color:#A6B4BD; color:black; background-color:#C6D6DF;}
+.XWBPR .submit INPUT:hover,
+.XWBPR .submit INPUT.buttonPress,
+.XWBPR #menuTitle          {border-color:#A6B4BD; background-color:#697B85; color:#C6D6DF;}
+.XWBPR .menu a:hover,
+.XWBPR .menu .submenu a:hover {color:blue;}
+
+.XWBPR table tr td.oddrow         {background-color: #C6D6DF; border:1px solid black;}
+.XWBPR table tr td.evenrow        {background-color: #FFFFFF; border:1px solid black;}
+.XWBPR table tr td.oddrow input   {background-color: #FFFFFF;}
+.XWBPR table tr td.evenrow input  {background-color: #FFFFFF;}
+.XWBPR table tr td.oddrow select  {background-color: #FFFFFF;}
+.XWBPR table tr td.evenrow select {background-color: #FFFFFF;}
+.XWBPR table th.groupTitle {display: none; }/*text-align: center;} */
+.XWBPR .envisionList .oddrow,
+.XWBPR .envisionList .evenrow {border-style: none;}
+#mainMenu a.XWBPR_Bars        {border:3px solid #697B85; background-color:#697B85;}
+#mainMenu a.XWBPR_Bars:hover  {border:3px solid #C6D6DF}
+#mainMenu li.XWBPR_Boxes      {background-image:url(./images/main-pathAdvisor.jpg);}
+#mainMenu li.XWBPR_DISABLED   {background-image:url(./images/main-pathAdvisorGRAY.jpg);}
+#mainMenu li.XWBPR_Boxes a:hover {font-size:12px;}
+
+.XWBPR hr                  {height:2px; background-color: #697B85; color: #697B85}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* Default/Null constituency (WBDF) */
+.WBDF                     {background-color:#CBCBCB; background-image:url(./images/sub-BGDefault.jpg);}
+.WBDF #bodyForm           {border-color:#CBCBCB;}
+.WBDF .menu .submenu,
+.WBDF .submit INPUT, .WBDF .pagingbutton       {border-color:#5D5959; color:black; background-color:#CBCBCB;}
+.WBDF .submit INPUT:hover,
+.WBDF .submit INPUT.buttonPress,
+.WBDF #menuTitle          {border-color:#5D5959; background-color:#6A6A6A; color:#CBCBCB;}
+.WBDF .menu a:hover,
+.WBDF .menu .submenu a:hover {color:blue;}
+
+.WBDF table tr td.oddrow         {background-color: #CBCBCB; border:1px solid #000000;}
+.WBDF table tr td.evenrow        {background-color: #FFFFFF; border:1px solid #000000;}
+.WBDF table tr td.oddrow input   {background-color: #FFFFFF;}
+.WBDF table tr td.evenrow input  {background-color: #FFFFFF;}
+.WBDF table tr td.oddrow select  {background-color: #FFFFFF;}
+.WBDF table tr td.evenrow select {background-color: #FFFFFF;}
+
+.WBDF table th.groupTitle {display: none; }/*text-align: center;} */
+.WBDF .envisionList .oddrow,
+.WBDF .envisionList .evenrow {border-style: none;}
+.WBDF hr                  {height:2px; background-color: #6A6A6A; color: #6A6A6A}

@@ -1,0 +1,5 @@
+@media print {
+#pageHeader, #pageFooter, #bodyWelcome, #bodyConstituency, .clear, .submit { display:none;}
+#bodyForm { margin: 0px; }
+#pageBody {float: none;}
+}

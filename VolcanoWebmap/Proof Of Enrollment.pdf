@@ -1,0 +1,460 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- saved from url=(0103)https://webadvisor.coastal.edu/WebAdvisor/WebAdvisor?TOKENIDX=2956637342&SS=4&APP=ST&CONSTITUENCY=XWBST -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="gwt:module" content="com.datatel.webadvisor.gwt.EnvisionTable">
+<title>
+</title>
+
+<link type="text/css" rel="stylesheet" href="./Proof Of Enrollment_files/SiteStyle.css">
+<link type="text/css" rel="stylesheet" href="./Proof Of Enrollment_files/ConstituencyStyle.css">
+<link type="text/css" rel="stylesheet" href="./Proof Of Enrollment_files/waprint.css">
+<script language="Javascript" type="text/javascript" src="./Proof Of Enrollment_files/WebAdvisor_scripts.js.download"></script><script language="javascript">
+								var __table_List = new Array();
+								var __metadata = new Array();
+								var __data = new Object();
+								var __response_URL = 'HTTPS://webadvisor.coastal.edu/WebAdvisor/WebAdvisor';
+								var __sequence_Step = '4';
+								var __misc = '2956637342*240604213929843*1794060311*N';
+								var __log_Level = 0;
+								var __tokenIdx = '2956637342';
+								var __constituency = 'XWBST';
+								var __navBar = 'A';
+								var __pid = 'ST';</script>
+<noscript>
+&lt;h1&gt;Javascript is currently disabled. Javascript is required for WebAdvisor functionality and must be enabled before proceeding.&lt;/h1&gt;
+</noscript>
+</head>
+<body onload="javascript:displayFormHTML(true);">
+<script language="javascript" src="./Proof Of Enrollment_files/gwt.js.download"></script><script defer="defer">com_datatel_webadvisor_gwt_EnvisionTable.onInjectionDone('com.datatel.webadvisor.gwt.EnvisionTable')</script>
+<div id="webPage">
+<div id="pageHeader">
+<div id="headerBanner">
+<div id="acctToolbar">
+<ul class="toolbar">
+<li id="acctContact">
+<a href="http://www.coastal.edu/coastal/contactus/contactemail.html" onmouseover="window.status=&#39;&#39;; return true;"><span class="label">Contact Us</span></a>
+</li>
+<li id="acctConstituency">
+<a href="https://webadvisor.coastal.edu/WebAdvisor/WebAdvisor?TOKENIDX=2956637342&amp;CONSTITUENCY=XWBST&amp;TYPE=M&amp;PID=CORE-XWBST" onmouseover="window.status=&#39;&#39;; return true;"><span class="label">Students Menu</span></a>
+</li>
+<li id="acctMain">
+<a href="https://webadvisor.coastal.edu/WebAdvisor/WebAdvisor?TOKENIDX=2956637342&amp;CONSTITUENCY=XWBST&amp;TYPE=M&amp;PID=CORE-XWMAIN" onmouseover="window.status=&#39;&#39;; return true;"><span class="label">Main Menu</span></a>
+</li>
+<li id="acctLogout">
+<a href="https://webadvisor.coastal.edu/WebAdvisor/WebAdvisor?TOKENIDX=2956637342&amp;CONSTITUENCY=XWBST&amp;type=P&amp;pid=UT-LORQ" onmouseover="window.status=&#39;&#39;; return true;"><span class="label">Log Out </span></a>
+</li>
+</ul>
+<div id="acctWidget">
+</div>
+</div>
+</div>
+<div class="custom">
+</div>
+</div>
+<div id="pageBody" class="XWBST">
+<div id="bodyWelcome">
+<span>Welcome A. Rabon!</span>
+</div>
+<div id="bodyConstituency">Current Students</div>
+<div class="clear">
+</div>
+<div id="bodyForm">
+<div id="screenTitle">
+<span></span>
+</div>
+<div class="custom">
+</div>
+<div class="custom">
+<pre></pre><style type="text/css">
+				
+				@media print {
+				#pageHeader, #pageFooter, #bodyWelcome, #bodyConstituency, .clear, .submit { display:none;}
+				#bodyForm { margin: 0px; border-style:none; }
+				#pageBody {float: none;}
+				}
+				
+				body, table, td, p {
+				font-family: arial,helvetica,sans-serif;
+				
+				font-size: 16px; 
+				}
+				a:link {
+					text-decoration: none;
+				}				
+				a:hover, a:active {
+					text-decoration: underline;
+				}
+				.Bold {
+					font-weight:bold;
+				}
+				.Error {
+				    color:#FF0000;
+				}
+				.OverrideNote {
+					color:#FF0000;
+				}
+				.PersonName {
+					font-size:20px;
+					background-color:#C5D7E3; 
+				}
+				.PlaceHolder {
+					color:#FF0000;
+				}
+				.Program {
+					font-size:20px;
+					font-weight:bold;
+				}
+				.ReqGroupName {
+					font-weight:bold;
+					font-size:20px;
+				}
+				.ReqName {
+					font-weight:bold; 
+					font-size:20px;
+				}
+				.SubReqName {
+					background-color:#B9D9B9;
+					font-size:20px;
+					font-weight:bold;
+				}
+				.SubReqCredits {
+					background-color:#D3EFD3;
+				}
+				.Title { 
+					font-size: 20px;
+					text-align:center;
+				}
+				.TitleOrg {
+					font-size:20px;
+				}
+				.TitleReport {
+					font-size:22px;
+				}						
+				.StatusCompleted {
+					color:#006600;
+					font-weight:bold;
+				}
+				.StatusInProgress {
+					color:#0000FF;
+					font-weight:bold;
+				}
+				.StatusNotStarted {
+					color:#FF0000;
+					font-weight:bold;
+				}
+				.StatusPending {
+					color:#FF6600;
+					font-weight:bold;
+				}
+				.StatusWaived {
+					color:#990099;
+					font-weight:bold;
+				}
+				.StatusOthers {
+					color:#FF6600;
+					font-weight:bold;
+				}			
+				.FootnoteColHeader{
+					background-color:#B9D9B9;
+				}	
+				.IdLink{
+					page-break-after: always;
+				}
+	
+				
+
+				#StudentTable{
+					page-break-after: always;
+				}
+				#FNoteTable {
+					background-color:#C5D7E3;
+				}
+				#FNoteInnerTable {
+					background-color:#FFFFFF;
+				}
+				#MainTable { 				
+					border-color:#000000;			
+				}
+				#CoursesTable {
+					background-color:#FFFFFF;
+				}				
+				#OtherCoursesTable {
+					background-color:#FFFFFF;
+				}
+				#ProgramTable {
+					padding:10;
+					background-color:#C5D7E3;
+				}
+				#ReqTable {
+					background-color:#FFFFFF;
+				}
+				#RequirementTable {
+					background-color:#C5D7E3;
+				}				
+				#UnappliedTable {
+					background-color:#C5D7E3;
+				}
+				#ReportTableHeader{
+					
+				    font-size:18px;
+					font-weight:bold;
+					color:black;
+				}				
+										
+			</style>
+<a name="1082702UG_BS_CSCI"></a>
+<table id="StudentTable" border="1" width="1000" rules="none" cellpadding="10" align="center">
+<tbody><tr class="Title">
+<td><font class="TitleOrg">Coastal Carolina University</font>
+<br>
+<font class="TitleReport">Academic Evaluation</font>
+<br>Report Date: 03/22/17</td>
+</tr>
+<tr>
+<td class="PersonName"><strong>Student: Anthony S. Rabon (1082702)</strong></td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="2">
+<tbody><tr>
+<td class="Bold">Program: </td><td>Computer Science (UG_BS_CSCI)</td>
+</tr>
+<tr>
+<td class="Bold">Catalog: </td><td>2015</td>
+</tr>
+<tr>
+<td class="Bold">Anticipated<br>Completion Date: </td><td valign="bottom">05/02/19</td>
+</tr>
+<tr>
+<td class="Bold">E-Mail Address:</td><td>asrabon@coastal.edu</td>
+</tr>
+<tr>
+<td class="Bold">Advisor:</td><td>Erin Rickard (MAJOR), Dr. Michael S. Ruse (HONOR)</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td>
+<hr> ATTENTION STUDENTS!!! <br> This is an unofficial advising report and does not represent an <br> irrevocable contract between the student and this University. <br> This is NOT a transcript and may contain errors. Responsibility <br> for meeting degree requirements rests with the student. The Dean <br> of the major will determine final approval for graduation. <br> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br> 
+<br> 
+<br>
+<hr>
+</td>
+</tr>
+<tr>
+<td><span class="Program">Program Summary: <b class="StatusInProgress"> (In Progress)</b></span></td>
+</tr>
+<tr>
+<td>
+<table id="SummaryTable" width="85%" bgcolor="#D3EFD3" border="1" cellpadding="5" cellspacing="2" rules="none" align="center">
+<tbody><tr align="right">
+<td width="200"></td><td id="ReportTableHeader" align="right">Required</td><td id="ReportTableHeader" align="right">Current Earned</td><td id="ReportTableHeader" align="right">Current Remaining</td><td id="ReportTableHeader" align="right">Anticipated Additional</td><td id="ReportTableHeader" align="right">Anticipated Remaining</td>
+</tr>
+<tr align="right">
+<td class="Bold" align="left">Institutional Credits:</td><td>30.00</td><td>61.00</td><td>0.00</td><td>33.00</td><td>0.00</td>
+</tr>
+<tr align="right">
+<td class="Bold" align="left">Institutional GPA:</td><td>2.000</td><td>3.810</td><td>  Met</td><td></td><td></td>
+</tr>
+<tr align="right">
+<td class="Bold" align="left">Overall Credits:</td><td>120.00</td><td>61.00</td><td>59.00</td><td>33.00</td><td>26.00</td>
+</tr>
+<tr align="right">
+<td class="Bold" align="left">Overall GPA:</td><td>2.000 </td><td>3.810 </td><td>  Met</td><td></td><td></td>
+</tr>
+<tr>
+<td colspan="6">
+<br> (*) Anticipates completion of in-progress and registered courses </td>
+</tr>
+</tbody></table>
+<br>
+</td>
+</tr>
+<tr>
+<td><span class="Program">Program Requirements:</span></td>
+</tr>
+<tr>
+<td>
+<table id="RequirementTable" width="95%" border="1" align="center" cellpadding="10">
+<tbody><tr>
+<td>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><span class="ReqName">1: Core Curriculum<b class="StatusInProgress"> (In progress)</b></span></td>
+</tr>
+<tr>
+<td>
+<table id="ProgramTable" border="0" width="100%" cellpadding="0">
+<tbody><tr>
+<td>Credits Earned: 30</td><td>Complete all 9 subrequirements: </td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<br>
+<table id="ReqTable" width="97%" border="0" align="center" cellpadding="10">
+<tbody><tr>
+<td class="SubReqName">A: Knowledge of Effective Communication<b class="StatusCompleted"> (Complete)</b></td>
+</tr>
+<tr class="SubReqCredits">
+<td> Complete all three groups. <br> Group 1:  Take ENGL*101 <br> Group 2:  Take ENGL*102 or ENGL*211 <br> Group 3:  Complete one course from the following: <br> BIOL*122, CBAD*290, CHEM*150, COMM*140, CSCI*101, CSCI*130, ENGL*211, ENGL*290 ENGR*101, HIST*250, MSCI*201, MUS*254, PHIL*271, POL I*200, PSYC*202, SOC*201, THEA*149, THEA*150 or EDML*317 <br>
+<br>Credits Earned: 11</td>
+</tr>
+<tr>
+<td class="ReqGroupName">Take ENGL*101<b class="StatusCompleted"> (Complete)</b></td>
+</tr>
+<tr id="ReqGroupStatus">
+<td> Minimum Grade 'C' <br>
+</td>
+</tr>
+<tr align="Center">
+<td>
+<table id="CoursesTable" width="100%" border="0">
+<tbody><tr>
+<td width="5%"></td><td id="ReportTableHeader" align="left" width="15%">Course</td><td id="ReportTableHeader" align="left" width="20%">Title</td><td id="ReportTableHeader" align="left" width="18%">Needed</td><td id="ReportTableHeader" align="left" width="10%">Term</td><td id="ReportTableHeader" align="left" width="7%">Grade</td><td id="ReportTableHeader" align="right" width="10%">Credits</td><td width="5%"></td><td id="ReportTableHeader" align="left" width="10%">Notes</td>
+</tr>
+<tr align="center">
+<td align="right" width="5%">1.</td><td align="left" width="15%">ENGL*101</td><td align="left" width="20%">Composition</td><td align="left" width="18%"></td><td align="left" width="10%">15/FA</td><td align="left" width="7%">A</td><td align="right" width="10%">4</td><td width="5%"></td><td align="left" width="10%">
+<table border="0" align="left">
+<tbody><tr></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="ReqGroupName">
+<hr>Take ENGL*102 or ENGL*211<b class="StatusCompleted"> (Complete)</b></td>
+</tr>
+<tr id="ReqGroupStatus">
+<td> Minimum Grade 'C' <br>
+</td>
+</tr>
+<tr align="Center">
+<td>
+<table id="CoursesTable" width="100%" border="0">
+<tbody><tr align="center">
+<td align="right" width="5%">1.</td><td align="left" width="15%">ENGL*102</td><td align="left" width="20%">Composition &amp; Critical Reading</td><td align="left" width="18%"></td><td align="left" width="10%">16/SP</td><td align="left" width="7%">A</td><td align="right" width="10%">4</td><td width="5%"></td><td align="left" width="10%">
+<table border="0" align="left">
+<tbody><tr></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="ReqGroupName">
+<hr>Take one course from group 3 from the list below<b class="StatusCompleted"> (Complete)</b></td>
+</tr>
+<tr id="ReqGroupStatus">
+<td> BIOL*122, CBAD*290, CHEM*150, COMM*140, CSCI*130,  ENGL*211, ENGL*290, ENGR*101, HIST*250, MSCI*201,  PHIL*271, POLI*200, PSYC*202,  SOC*201, THEA*149 CSCI*101, MUS*254, THEA*150, or EDML*317 <br>
+</td>
+</tr>
+<tr align="Center">
+<td>
+<table id="CoursesTable" width="100%" border="0">
+<tbody><tr align="center">
+<td align="right" width="5%">1.</td><td align="left" width="15%">CSCI*130</td><td align="left" width="20%">Intro Computer Science     </td><td align="left" width="18%"></td><td align="left" width="10%">15/FA</td><td align="left" width="7%">A</td><td align="right" width="10%">3</td><td width="5%"></td><td align="left" width="10%">
+<table border="0" align="left">
+<tbody><tr></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="SubReqName">B: Knowledge of Mathematical Concepts<b class="StatusCompleted"> (Complete)</b></td>
+</tr>
+<tr class="SubReqCredits">
+<td> Complete one option below. <br> Option 1:  Choose either STAT*201/L or PSYC*225/L <br> Option 2:  Choose 1 course from MATH*132, MATH*139,  MATH*160, CBAD*291, MATH*201 or POLI*205 <br>
+<br>Credits Earned: 4</td>
+</tr>
+<tr>
+<td class="ReqGroupName">Option 1: STAT*201/L or PSYC*225/L<b class="StatusCompleted"> (Complete)</b></td>
+</tr>
+<tr>
+<td>Credits Earned: 4<br>
+</td>
+</tr>
+<tr align="Center">
+<td>
+<table id="CoursesTable" width="100%" border="0">
+<tbody><tr>
+<td width="5%"></td><td id="ReportTableHeader" align="left" width="15%">Course</td><td id="ReportTableHeader" align="left" width="20%">Title</td><td id="ReportTableHeader" align="left" width="18%">Needed</td><td id="ReportTableHeader" align="left" width="10%">Term</td><td id="ReportTableHeader" align="left" width="7%">Grade</td><td id="ReportTableHeader" align="right" width="10%">Credits</td><td width="5%"></td><td id="ReportTableHeader" align="left" width="10%">Notes</td>
+</tr>
+<tr align="center">
+<td align="right" width="5%">1.</td><td align="left" width="15%">STAT*201L</td><td align="left" width="20%">Elementary Statistics Comp Lab</td><td align="left" width="18%"></td><td align="left" width="10%">16/SP</td><td align="left" width="7%">C+</td><td align="right" width="10%">1</td><td width="5%"></td><td align="left" width="10%">
+<table border="0" align="left">
+<tbody><tr></tr>
+</tbody></table>
+</td>
+</tr>
+<tr align="center">
+<td align="right" width="5%">2.</td><td align="left" width="15%">STAT*201</td><td align="left" width="20%">Elementary Statistics</td><td align="left" width="18%"></td><td align="left" width="10%">16/SP</td><td align="left" width="7%">C+</td><td align="right" width="10%">3</td><td width="5%"></td><td align="left" width="10%">
+<table border="0" align="left">
+<tbody><tr></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="SubReqName">C: Knowledge of Scientific Concepts<b class="StatusNotStarted"> (Not started)</b></td>
+</tr>
+<tr class="SubReqCredits">
+<td> Complete one Class/Lab from one option below. <br> Option 1:  ANTH*101/L, ASTR*101/L, BIOL*101/L, CHEM*101/L, GEOL*102/L, MSCI*101/L, PHYS*103/L, SCIE*101/L <br> Option 2:  ASTR*111/L, BIOL*121/L, CHEM*111/L, GEOL*111/L, MSCI*102/L, PHYS*137/L <br> Option 3:  BIOL*232/L, MSCI*111/L, PHYS*201/L <br>
+<br>Credits Earned: 0</td>
+</tr>
+<tr>
+<td class="ReqGroupName">Option 1: Choose Class/Lab from the list below<b class="StatusNotStarted"> (Not started)</b></td>
+</tr>
+<tr id="ReqGroupStatus">
+<td> ANTH*101/L, ASTR*101/L, BIOL*101/L, CHEM*101/L, GEOL*102/L, MSCI*101/L, PHYS*103/L, SCIE*101/L <br>
+</td>
+</tr>
+<tr align="Center">
+<td>
+<table id="CoursesTable" width="100%" border="0">
+<tbody><tr>
+<td width="5%"></td><td id="ReportTableHeader" align="left" width="15%">Course</td><td id="ReportTableHeader" align="left" width="20%">Title</td><td id="ReportTableHeader" align="left" width="18%">Needed</td><td id="ReportTableHeader" align="left" width="10%">Term</td><td id="ReportTableHeader" align="left" width="7%">Grade</td><td id="ReportTableHeader" align="right" width="10%">Credits</td><td width="5%"></td><td id="ReportTableHeader" align="left" width="10%">Notes</td>
+</tr>
+<tr align="center">
+<td align="right" width="5%">1.</td><td align="left" width="15%"></td><td align="left" width="20%"></td><td align="left" width="18%"> 2 courses</td><td align="left" width="10%"></td><td align="left" width="7%"></td><td align="right" width="10%"></td><td width="5%"></td><td align="left" width="10%">
+<table border="0" align="left">
+<tbody><tr></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="ReqGroupName">
+<hr>Option 2: Choose Class/Lab from the list below<b class="StatusNotStarted"> (Not started)</b></td>
+</tr>
+<tr id="ReqGroupStatus">
+<td> ASTR*111/L, BIOL*121/L, CHEM*111/L, GEOL*111/L,  MSCI*102/L, PHYS*137/L <br>
+</td>
+</tr>
+<tr align="Center">
+<td>
+<table id="CoursesTable" width="100%" border="0">
+<tbody><tr align="center">
+<td align="right" width="5%">1.</td><td align="left" width="15%"></td><td align="left" width="20%"></td><td align="left" width="18%"> 2 courses</td><td align="left" width="10%"></td><td align="left" width="7%"></td><td align="right" width="10%"></td><td width="5%"></td><td align="left" width="10%">
+<table border="0" align="left">
+<tbody><tr></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td class="ReqGroupName">
+<hr>Option 3: Choo</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></div></div></div><iframe src="javascript:&#39;&#39;" id="com.datatel.webadvisor.gwt.EnvisionTable" tabindex="-1" style="position: absolute; width: 0px; height: 0px; border: none;" src="./Proof Of Enrollment_files/saved_resource.html"></iframe></body></html>
